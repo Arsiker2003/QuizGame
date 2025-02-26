@@ -781,11 +781,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: a0df29d2-5225-446b-b7f9-9d446dce02d6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: quizGame
+  organizationId: davydenko2003ar
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
